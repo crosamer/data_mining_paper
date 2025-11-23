@@ -1,4 +1,4 @@
-# 📘 Data Mining Paper — Kelompok 11
+# 📘 Data Mining — Kelompok 11
 Mata Kuliah: **Data Mining**  
 Semester: 5  
 
@@ -31,9 +31,8 @@ Struktur folder telah diatur berdasarkan topik agar mudah dipelajari dan direpli
 - **Pembanding:** Random Forest, Linear Regression  
 - **Dataset:** `insurance.csv`
 
-Evaluasi meliputi:
+Hasil dan Evaluasi:
 - MAE  
-- MSE  
 - RMSE  
 - R² Score  
 
@@ -44,10 +43,10 @@ Evaluasi meliputi:
 - **Pembanding:** ARIMA, Holt-Winters, Prophet  
 - **Dataset:** `AirPassengers.csv`
 
-Analisis meliputi:
-- Time series decomposition  
-- Plot hasil prediksi  
-- MAPE dan RMSE  
+Hasil dan Evaluasi:
+- MAE
+- RMSE
+- MAPE  
 
 ---
 
@@ -56,10 +55,10 @@ Analisis meliputi:
 - **Pembanding:** Hierarchical Clustering  
 - **Dataset:** `dataset500.csv`
 
-Hasil meliputi:
-- Scatter plot cluster  
-- Dendrogram  
+Hasil dan Evaluasi:
 - Silhouette Score  
+- Calinski - Harabasz Index  
+- Dunn Index  
 
 ---
 
@@ -68,7 +67,7 @@ Hasil meliputi:
 - **Pembanding:** Logistic Regression, Random Forest, SVM  
 - **Dataset:** `spam.csv`
 
-Evaluasi:
+Hasil dan Evaluasi:
 - Accuracy  
 - Precision  
 - Recall  
@@ -82,7 +81,7 @@ Evaluasi:
 - **Pembanding:** ECLAT, AIS  
 - **Dataset:** `associationBaru.csv`
 
-Hasil yang dianalisis:
+Hasil dan Evaluasi:
 - Frequent itemsets  
 - Association rules  
 - Jumlah rules  

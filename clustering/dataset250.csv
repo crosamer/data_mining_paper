@@ -1,0 +1,251 @@
+﻿Employee_ID,Department,Gender,Age,Job_Title,Hire_Date,Years_At_Company,Education_Level,Performance_Score,Monthly_Salary,Work_Hours_Per_Week,Projects_Handled,Overtime_Hours,Sick_Days,Remote_Work_Frequency,Team_Size,Training_Hours,Promotions,Employee_Satisfaction_Score,Resigned
+1,IT,Male,55,Specialist,03:05.6,2,High School,5,6750,33,32,22,2,0,14,66,0,2.63,FALSE
+2,Finance,Male,29,Developer,03:05.6,0,High School,5,7500,34,34,13,14,100,12,61,2,1.72,FALSE
+3,Finance,Male,55,Specialist,03:05.6,8,High School,3,5850,37,27,6,3,50,10,1,0,3.17,FALSE
+4,Customer Support,Female,48,Analyst,03:05.6,7,Bachelor,2,4800,52,10,28,12,100,10,0,1,1.86,FALSE
+5,Engineering,Female,36,Analyst,03:05.6,3,Bachelor,2,4800,38,11,29,13,100,15,9,1,1.25,FALSE
+6,IT,Male,43,Manager,03:05.6,8,High School,3,7800,46,31,8,0,100,15,95,0,2.77,FALSE
+7,IT,Male,37,Technician,03:05.6,1,Bachelor,5,5250,55,20,29,2,0,16,27,0,4.46,FALSE
+8,Engineering,Female,55,Engineer,03:05.6,9,Bachelor,2,7200,42,46,7,8,100,7,64,0,2.09,FALSE
+9,Marketing,Female,55,Technician,03:05.6,1,High School,2,4200,51,23,21,14,0,1,0,1,1.44,FALSE
+10,Engineering,Female,45,Consultant,03:05.6,7,Bachelor,1,6050,41,33,2,6,75,4,53,2,2.93,FALSE
+11,Customer Support,Male,52,Engineer,03:05.6,4,Bachelor,3,7800,38,1,5,0,25,4,90,1,2.34,FALSE
+12,Customer Support,Male,27,Technician,03:05.6,9,Bachelor,5,5250,39,13,2,13,25,5,88,0,1.96,FALSE
+13,HR,Male,51,Technician,03:05.6,5,Bachelor,4,4900,31,11,16,1,75,7,17,2,2.13,FALSE
+14,Engineering,Male,27,Analyst,03:05.6,9,Bachelor,4,5600,33,30,5,13,25,4,26,1,1.46,FALSE
+15,Finance,Male,46,Analyst,03:05.6,1,Master,1,4400,33,49,13,1,100,13,37,1,2.22,FALSE
+16,Customer Support,Male,26,Developer,03:05.6,1,High School,2,6000,33,41,9,13,50,3,46,1,2.42,FALSE
+17,Operations,Male,29,Engineer,03:05.6,4,Bachelor,2,7200,43,26,29,12,0,6,76,2,3.15,FALSE
+18,Sales,Other,28,Developer,03:05.6,1,High School,3,6500,47,36,6,12,75,12,54,0,1.19,FALSE
+19,Customer Support,Other,56,Developer,03:05.6,8,Bachelor,1,5500,57,9,24,1,75,1,36,0,1.12,FALSE
+20,Finance,Male,23,Technician,03:05.6,9,High School,2,4200,52,0,9,1,0,5,66,0,3.91,FALSE
+21,Operations,Female,33,Manager,03:05.6,1,Bachelor,1,6600,33,28,13,13,50,15,53,2,3.7,FALSE
+22,Sales,Male,59,Manager,03:05.6,7,Master,5,9000,30,22,9,2,25,4,20,0,4.66,FALSE
+23,Finance,Male,26,Specialist,03:05.6,8,High School,4,6300,48,40,9,13,0,13,71,2,3.68,FALSE
+24,Sales,Male,58,Consultant,03:05.6,6,Master,2,6600,55,2,28,8,25,6,78,2,4.26,FALSE
+25,HR,Female,38,Analyst,03:05.6,6,Bachelor,2,4800,50,21,24,11,25,7,49,1,4.43,FALSE
+26,Customer Support,Male,38,Specialist,03:05.6,2,Bachelor,5,6750,59,24,0,13,25,3,9,2,2.12,FALSE
+27,Finance,Male,45,Engineer,03:05.6,3,Bachelor,2,7200,59,24,23,6,0,7,26,1,3.16,FALSE
+28,Legal,Male,43,Manager,03:05.6,9,Master,3,7800,44,42,3,10,75,4,45,2,1.35,TRUE
+29,Engineering,Male,53,Specialist,03:05.6,2,Bachelor,2,5400,31,34,14,6,50,6,42,1,4.52,FALSE
+30,Finance,Male,52,Analyst,03:05.6,1,High School,3,5200,45,25,29,9,25,2,37,2,4.95,FALSE
+31,Customer Support,Male,58,Consultant,03:05.6,6,Bachelor,1,6050,38,15,25,2,50,12,16,2,4.65,FALSE
+32,Legal,Female,24,Manager,03:05.6,1,High School,4,8400,39,25,7,7,50,18,22,0,1.95,FALSE
+33,Customer Support,Male,29,Analyst,03:05.6,0,High School,2,4800,48,49,16,14,50,17,37,0,4.43,FALSE
+34,Sales,Female,25,Engineer,03:05.6,2,PhD,4,8400,44,26,24,8,75,18,37,2,2.1,FALSE
+35,Marketing,Male,41,Analyst,03:05.6,5,Master,4,5600,34,13,0,10,75,14,36,1,1.94,FALSE
+36,HR,Female,42,Engineer,03:05.6,4,Master,5,9000,31,9,18,11,100,8,21,1,4.21,FALSE
+37,Sales,Male,43,Consultant,03:05.6,0,High School,2,6600,53,42,10,2,0,16,18,1,4.97,FALSE
+38,Sales,Other,46,Consultant,03:05.6,9,Master,2,6600,31,6,15,7,0,2,48,0,2.47,FALSE
+39,IT,Male,48,Specialist,03:05.6,2,Bachelor,1,4950,46,7,1,1,0,11,6,1,2.66,FALSE
+40,HR,Female,58,Engineer,03:05.6,1,Bachelor,5,9000,44,2,2,8,100,14,85,1,4.22,FALSE
+41,HR,Female,44,Analyst,03:05.6,3,Bachelor,2,4800,59,45,9,13,0,16,28,2,2.9,TRUE
+42,Marketing,Male,29,Specialist,03:05.6,2,High School,4,6300,33,10,6,2,25,8,28,2,4.84,FALSE
+43,Customer Support,Male,60,Engineer,03:05.6,8,Bachelor,3,7800,46,48,4,6,75,13,21,0,3.59,FALSE
+44,Marketing,Female,43,Manager,03:05.6,3,High School,3,7800,43,25,2,3,0,7,85,0,3.32,FALSE
+45,Customer Support,Female,46,Developer,03:05.6,3,Master,2,6000,58,7,29,3,25,12,4,1,2.53,FALSE
+46,HR,Female,29,Specialist,03:05.6,8,High School,2,5400,31,19,11,6,75,7,90,1,1.59,FALSE
+47,HR,Male,32,Technician,03:05.6,3,Bachelor,4,4900,41,19,26,1,75,5,21,2,1.27,FALSE
+48,Operations,Male,31,Specialist,03:05.6,0,Bachelor,1,4950,45,31,20,2,75,15,82,2,4.84,FALSE
+49,Legal,Male,40,Specialist,03:05.6,8,High School,5,6750,59,49,0,2,100,17,13,1,2.9,FALSE
+50,Operations,Other,57,Developer,03:05.6,4,High School,2,6000,53,10,19,13,50,3,15,0,1.47,FALSE
+51,Legal,Female,35,Consultant,03:05.6,4,Bachelor,1,6050,55,26,29,4,100,2,28,1,3.02,FALSE
+52,HR,Male,40,Developer,03:05.6,7,Bachelor,2,6000,46,9,12,8,25,10,18,1,1.43,FALSE
+53,Engineering,Male,28,Consultant,03:05.6,9,Bachelor,3,7150,38,34,4,3,0,5,12,0,2.56,FALSE
+54,Engineering,Female,37,Technician,03:05.6,8,High School,2,4200,50,22,0,8,100,1,92,1,1.1,FALSE
+55,Operations,Female,34,Technician,03:05.6,9,High School,5,5250,32,26,6,6,25,3,68,1,1.87,TRUE
+56,Marketing,Female,34,Developer,03:05.6,2,Bachelor,3,6500,41,18,21,3,75,8,7,0,1.7,FALSE
+57,Customer Support,Female,33,Specialist,03:05.6,8,PhD,1,4950,33,46,28,8,75,1,36,2,2.64,TRUE
+58,Finance,Male,23,Developer,03:05.6,5,Bachelor,4,7000,32,42,8,12,0,3,27,2,3.97,FALSE
+59,IT,Other,52,Technician,03:05.6,0,High School,3,4550,53,7,5,2,25,12,74,2,4.23,TRUE
+60,Customer Support,Female,54,Manager,03:05.6,5,Bachelor,1,6600,51,17,19,8,50,5,99,1,3.02,FALSE
+61,Operations,Female,34,Consultant,03:05.6,3,Bachelor,2,6600,40,17,14,4,50,6,20,1,2.32,FALSE
+62,Engineering,Male,53,Specialist,03:05.6,7,High School,5,6750,43,44,0,13,75,16,75,2,2.15,FALSE
+63,Sales,Male,27,Manager,03:05.6,6,Bachelor,3,7800,44,29,12,0,75,18,73,1,2.26,FALSE
+64,Finance,Female,58,Manager,03:05.6,6,High School,4,8400,50,10,14,9,25,17,21,0,1.68,TRUE
+65,Sales,Female,41,Specialist,03:05.6,5,Bachelor,1,4950,41,37,13,9,75,5,3,0,4.33,FALSE
+66,Legal,Male,37,Technician,03:05.6,0,Bachelor,4,4900,54,32,4,3,25,2,12,1,2.13,FALSE
+67,Sales,Male,49,Manager,03:05.6,7,Master,2,7200,55,30,19,0,75,19,93,0,4.26,FALSE
+68,HR,Male,39,Consultant,03:05.6,0,Bachelor,2,6600,53,10,17,14,50,3,64,2,2.45,FALSE
+69,Operations,Female,38,Specialist,03:05.6,8,Bachelor,4,6300,52,6,9,6,0,5,9,0,2.42,FALSE
+70,Sales,Male,52,Manager,03:05.6,8,Master,1,6600,32,2,13,11,25,16,8,0,4.45,FALSE
+71,IT,Female,42,Developer,03:05.6,1,High School,1,5500,53,20,13,8,100,8,75,1,4.49,FALSE
+72,Engineering,Female,42,Analyst,03:05.6,1,Master,4,5600,53,1,16,11,50,11,15,2,3.55,FALSE
+73,Sales,Female,33,Developer,03:05.6,1,Bachelor,2,6000,36,42,15,1,0,5,41,0,1.31,FALSE
+74,Legal,Female,47,Developer,03:05.6,4,Bachelor,2,6000,37,6,15,1,0,12,8,1,4.98,FALSE
+75,HR,Female,33,Consultant,03:05.6,0,High School,2,6600,31,6,24,10,75,10,1,1,1.39,FALSE
+76,Engineering,Male,47,Consultant,03:05.6,6,High School,4,7700,55,36,22,3,100,10,84,1,1.75,FALSE
+77,Customer Support,Male,31,Technician,03:05.6,7,PhD,3,4550,32,46,19,0,50,19,82,0,3.2,FALSE
+78,Sales,Male,28,Developer,03:05.6,3,Master,5,7500,42,28,6,6,25,1,38,1,3.55,FALSE
+79,Legal,Male,46,Consultant,03:05.6,8,High School,3,7150,60,36,27,13,25,5,94,2,3.5,TRUE
+80,Customer Support,Female,54,Specialist,03:05.6,5,High School,1,4950,31,27,5,6,0,12,53,1,2.09,FALSE
+81,Legal,Female,55,Developer,03:05.6,0,Master,3,6500,38,12,25,6,100,13,94,0,3.75,FALSE
+82,Customer Support,Female,23,Specialist,03:05.6,7,High School,3,5850,40,19,14,14,100,14,0,0,3.4,TRUE
+83,Engineering,Male,46,Analyst,03:05.6,3,Bachelor,2,4800,35,24,10,13,0,4,85,0,1.33,FALSE
+84,HR,Female,28,Analyst,03:05.6,8,Master,1,4400,53,38,22,14,100,17,67,2,2.17,FALSE
+85,Marketing,Female,46,Specialist,03:05.6,8,Bachelor,2,5400,44,16,13,13,100,11,0,1,4.27,FALSE
+86,Legal,Female,59,Engineer,03:05.6,9,Bachelor,4,8400,33,11,7,4,100,5,40,2,2.37,FALSE
+87,Marketing,Male,55,Technician,03:05.6,4,PhD,3,4550,59,1,9,1,25,17,59,2,1.77,FALSE
+88,Marketing,Male,52,Technician,03:05.6,5,Bachelor,2,4200,33,45,2,4,50,18,12,0,1.11,FALSE
+89,Finance,Female,27,Engineer,03:05.6,0,Master,2,7200,31,1,25,5,0,15,22,1,2.08,FALSE
+90,Customer Support,Female,39,Manager,03:05.6,6,Bachelor,4,8400,33,11,10,2,100,9,53,0,3.22,FALSE
+91,Customer Support,Male,55,Consultant,03:05.6,0,Bachelor,2,6600,44,42,5,6,0,9,26,2,3.23,TRUE
+92,Legal,Male,48,Developer,03:05.6,5,Bachelor,1,5500,42,11,26,12,100,15,84,1,3.69,TRUE
+93,Finance,Male,50,Manager,03:05.6,0,High School,4,8400,54,9,29,7,25,15,3,2,3.66,FALSE
+94,Engineering,Male,52,Specialist,03:05.6,3,High School,4,6300,44,19,10,7,50,1,81,1,4.1,FALSE
+95,Operations,Male,52,Developer,03:05.6,9,High School,1,5500,47,4,19,10,0,19,33,0,4.36,FALSE
+96,Marketing,Female,30,Manager,03:05.6,5,High School,3,7800,49,24,20,2,50,19,43,2,1.03,TRUE
+97,Engineering,Male,58,Specialist,03:05.6,9,PhD,3,5850,45,24,16,12,50,7,0,0,2.34,FALSE
+98,Finance,Female,38,Manager,03:05.6,8,High School,3,7800,41,31,12,10,75,9,64,0,4.2,FALSE
+99,Sales,Male,24,Developer,03:05.6,4,Bachelor,2,6000,50,33,0,9,0,13,37,1,4.39,FALSE
+100,Customer Support,Other,33,Manager,03:05.6,6,Bachelor,3,7800,36,9,10,14,25,13,30,1,3.19,TRUE
+101,Finance,Female,45,Engineer,03:05.6,6,High School,4,8400,35,0,18,14,75,17,48,0,3.42,FALSE
+102,IT,Female,33,Consultant,03:05.6,4,High School,1,6050,54,31,11,3,0,2,48,1,3.63,TRUE
+103,IT,Male,33,Consultant,03:05.6,4,Bachelor,3,7150,49,45,29,2,75,6,57,2,5,TRUE
+104,Engineering,Male,58,Consultant,03:05.6,6,Bachelor,4,7700,59,44,18,13,100,12,53,1,2.13,FALSE
+105,Customer Support,Female,55,Technician,03:05.6,5,High School,1,3850,58,1,1,0,0,4,29,1,2.3,FALSE
+106,Customer Support,Male,46,Manager,03:05.6,2,Bachelor,4,8400,36,1,6,9,50,17,10,0,2.94,FALSE
+107,HR,Female,22,Developer,03:05.6,3,Bachelor,4,7000,34,8,17,12,100,16,1,0,2.8,FALSE
+108,Operations,Female,37,Engineer,03:05.6,9,Bachelor,4,8400,56,26,7,9,100,15,12,2,4.68,FALSE
+109,Sales,Male,56,Consultant,03:05.6,6,Bachelor,1,6050,51,24,2,11,75,3,82,1,2.7,FALSE
+110,Sales,Male,36,Consultant,03:05.6,5,High School,5,8250,50,32,28,5,50,9,56,0,1.64,FALSE
+111,IT,Male,43,Technician,03:05.6,0,Bachelor,2,4200,48,33,4,7,25,12,75,2,4.8,FALSE
+112,Finance,Male,39,Analyst,03:05.6,5,Bachelor,1,4400,31,5,25,12,75,3,34,0,3.51,FALSE
+113,Legal,Female,30,Technician,03:05.6,7,Master,4,4900,34,14,12,8,25,2,59,0,4.5,FALSE
+114,Customer Support,Male,35,Consultant,03:05.6,0,Bachelor,4,7700,43,14,0,14,75,5,31,2,3.58,FALSE
+115,Legal,Female,48,Specialist,03:05.6,1,Bachelor,2,5400,32,24,1,0,25,11,88,1,1.58,FALSE
+116,Customer Support,Female,56,Analyst,03:05.6,3,Bachelor,5,6000,43,5,29,8,100,11,96,0,2.47,FALSE
+117,Legal,Male,26,Manager,03:05.6,3,High School,5,9000,33,4,15,3,75,17,44,2,3.24,FALSE
+118,IT,Male,38,Consultant,03:05.6,8,PhD,4,7700,54,44,17,3,0,1,81,1,4.2,FALSE
+119,IT,Female,27,Manager,03:05.6,4,Bachelor,5,9000,49,12,27,10,25,19,4,1,2.87,FALSE
+120,Finance,Male,29,Specialist,03:05.6,3,Bachelor,3,5850,47,15,6,1,25,11,65,0,4.37,FALSE
+121,Customer Support,Male,26,Specialist,03:05.6,5,Bachelor,1,4950,49,2,12,6,75,6,23,1,4.17,FALSE
+122,Legal,Female,25,Technician,03:05.6,4,High School,1,3850,30,42,4,11,75,6,13,1,2.94,TRUE
+123,Operations,Female,44,Manager,03:05.6,9,Bachelor,4,8400,53,11,28,5,0,12,60,1,4.47,FALSE
+124,Finance,Male,46,Consultant,03:05.6,9,Bachelor,4,7700,35,31,19,7,75,14,19,0,1.14,FALSE
+125,IT,Male,28,Engineer,03:05.6,3,High School,3,7800,46,4,12,7,0,1,36,2,1.39,FALSE
+126,Marketing,Male,34,Developer,03:05.6,8,High School,1,5500,56,6,3,12,0,6,60,0,4.65,FALSE
+127,Engineering,Other,59,Consultant,03:05.6,9,Bachelor,2,6600,50,44,17,0,100,16,35,0,4.4,FALSE
+128,Sales,Male,31,Consultant,03:05.6,2,Bachelor,2,6600,59,27,22,6,100,1,44,2,1.74,FALSE
+129,Sales,Male,51,Developer,03:05.6,1,High School,5,7500,45,8,7,6,50,12,66,2,1.24,TRUE
+130,Sales,Other,29,Engineer,03:05.6,4,Bachelor,1,6600,39,10,25,1,100,1,66,2,1.61,FALSE
+131,Engineering,Male,47,Specialist,03:05.6,9,Master,5,6750,34,14,27,6,50,15,97,2,2.84,TRUE
+132,HR,Male,32,Technician,03:05.6,0,Bachelor,5,5250,52,14,28,5,25,17,34,0,2.87,FALSE
+133,Marketing,Female,55,Manager,03:05.6,3,High School,3,7800,49,9,15,9,75,12,92,0,1.96,FALSE
+134,Operations,Female,29,Consultant,03:05.6,5,High School,2,6600,55,41,13,2,25,13,44,1,3.83,FALSE
+135,Operations,Male,24,Consultant,03:05.6,2,Bachelor,2,6600,39,24,0,12,25,11,63,0,3.79,FALSE
+136,Sales,Male,23,Analyst,03:05.6,2,Bachelor,5,6000,56,28,29,1,0,12,94,0,3.03,FALSE
+137,Legal,Female,35,Analyst,03:05.6,7,Bachelor,2,4800,46,21,17,2,25,6,9,1,1.25,FALSE
+138,Customer Support,Male,28,Manager,03:05.6,5,Master,5,9000,40,9,12,2,100,17,34,2,4.83,FALSE
+139,Finance,Male,38,Technician,03:05.6,5,High School,2,4200,34,24,23,0,100,12,22,0,1.12,FALSE
+140,Legal,Female,39,Specialist,03:05.6,1,High School,1,4950,44,4,5,5,50,4,11,0,4.38,FALSE
+141,Engineering,Female,23,Analyst,03:05.6,5,Bachelor,2,4800,35,20,11,1,25,13,16,1,3.61,FALSE
+142,Customer Support,Male,22,Specialist,03:05.6,3,PhD,3,5850,52,6,8,14,50,6,45,1,4.61,FALSE
+143,Legal,Female,60,Specialist,03:05.6,7,Bachelor,2,5400,35,27,19,2,50,15,93,0,2.62,FALSE
+144,Customer Support,Female,54,Analyst,03:05.6,7,High School,3,5200,48,49,27,3,75,11,64,2,1.82,FALSE
+145,Operations,Female,26,Consultant,03:05.6,1,Bachelor,1,6050,53,18,15,11,50,5,46,0,2.23,FALSE
+146,Customer Support,Male,43,Consultant,03:05.6,6,Master,2,6600,41,30,12,4,25,18,80,2,4.36,FALSE
+147,Legal,Female,57,Engineer,03:05.6,5,Bachelor,1,6600,39,41,7,13,0,7,1,0,3.3,FALSE
+148,Sales,Male,58,Analyst,03:05.6,7,Master,3,5200,56,26,25,6,100,14,34,2,4.55,FALSE
+149,IT,Female,31,Technician,03:05.6,7,Master,1,3850,59,3,13,0,50,13,78,2,4.75,FALSE
+150,Finance,Female,55,Analyst,03:05.6,3,Bachelor,1,4400,57,17,21,12,100,6,92,0,3,FALSE
+151,Operations,Male,59,Consultant,03:05.6,3,Bachelor,4,7700,52,11,15,13,50,12,19,0,4.76,FALSE
+152,Sales,Male,25,Manager,03:05.6,1,Bachelor,4,8400,35,10,10,0,50,1,51,1,1.02,FALSE
+153,Marketing,Female,54,Technician,03:05.6,9,High School,5,5250,37,49,22,14,100,6,21,2,4.44,FALSE
+154,Customer Support,Male,60,Specialist,03:05.6,7,Bachelor,3,5850,49,19,1,7,100,12,15,2,4.88,FALSE
+155,Legal,Male,51,Engineer,03:05.6,9,Bachelor,3,7800,53,49,17,1,75,3,30,2,3.78,FALSE
+156,Customer Support,Female,35,Specialist,03:05.6,1,Master,1,4950,57,30,24,8,100,13,70,1,1.05,FALSE
+157,Legal,Male,46,Manager,03:05.6,4,Bachelor,1,6600,34,5,7,1,25,17,71,0,1.79,FALSE
+158,Operations,Female,39,Analyst,03:05.6,9,Bachelor,1,4400,55,45,14,5,50,7,11,2,3.34,FALSE
+159,Legal,Female,41,Technician,03:05.6,9,Master,1,3850,31,36,21,12,100,6,98,0,4.04,FALSE
+160,Operations,Female,30,Manager,03:05.6,2,Master,4,8400,52,28,17,1,100,12,27,0,4.15,TRUE
+161,Engineering,Male,36,Manager,03:05.6,8,Master,1,6600,39,43,27,10,100,3,70,1,2.85,FALSE
+162,HR,Male,32,Technician,03:05.6,4,Bachelor,5,5250,56,35,20,10,0,16,41,2,2.04,FALSE
+163,Finance,Male,44,Technician,03:05.6,1,Bachelor,5,5250,32,46,15,14,50,19,29,0,1.78,FALSE
+164,Legal,Male,37,Analyst,03:05.6,7,High School,1,4400,43,33,2,2,0,4,53,1,1.97,TRUE
+165,Engineering,Male,26,Analyst,03:05.6,3,High School,2,4800,54,26,23,0,100,16,43,0,1.82,TRUE
+166,Sales,Female,30,Specialist,03:05.6,4,High School,3,5850,50,29,23,9,75,12,47,2,3.49,FALSE
+167,Sales,Male,36,Manager,03:05.6,6,High School,4,8400,51,44,1,6,50,12,78,1,1.14,FALSE
+168,Legal,Male,31,Analyst,03:05.6,7,Bachelor,5,6000,49,48,25,0,25,19,93,0,1.97,FALSE
+169,Legal,Female,39,Specialist,03:05.6,5,High School,4,6300,53,17,23,5,75,14,84,0,4.25,FALSE
+170,Legal,Female,34,Technician,03:05.6,4,High School,5,5250,50,22,26,2,25,5,49,2,2.59,FALSE
+171,Engineering,Male,23,Manager,03:05.6,1,Bachelor,3,7800,57,49,9,11,50,13,52,2,4.72,FALSE
+172,Finance,Male,22,Developer,03:05.6,9,Bachelor,2,6000,52,23,17,3,25,6,50,2,3.63,FALSE
+173,Operations,Male,43,Developer,03:05.6,4,PhD,2,6000,39,17,1,8,25,8,63,1,2.24,FALSE
+174,Marketing,Female,26,Specialist,03:05.6,4,High School,5,6750,35,30,18,11,0,5,16,0,3.36,FALSE
+175,Customer Support,Female,30,Analyst,03:05.6,0,Bachelor,2,4800,56,48,21,1,100,2,42,2,3.85,FALSE
+176,Engineering,Female,48,Developer,03:05.6,0,Bachelor,3,6500,57,14,12,12,75,14,16,1,3.59,TRUE
+177,HR,Female,54,Consultant,03:05.6,7,Bachelor,3,7150,40,2,7,8,100,18,99,1,3.79,FALSE
+178,Customer Support,Male,25,Analyst,03:05.6,7,Bachelor,4,5600,40,42,14,9,100,16,47,0,1.14,FALSE
+179,Customer Support,Other,48,Technician,03:05.6,6,Bachelor,2,4200,52,21,8,13,50,19,79,2,1.3,FALSE
+180,Legal,Female,53,Manager,03:05.6,8,Master,2,7200,31,36,25,3,0,9,36,2,2.89,FALSE
+181,Legal,Male,28,Technician,03:05.6,7,Bachelor,1,3850,36,13,13,5,0,13,67,1,2.39,TRUE
+182,Legal,Male,57,Manager,03:05.6,0,Bachelor,2,7200,48,38,9,8,50,17,56,2,4.28,FALSE
+183,Sales,Male,48,Technician,03:05.6,6,Bachelor,4,4900,33,26,29,4,75,5,21,1,2.47,FALSE
+184,Customer Support,Female,32,Manager,03:05.6,2,Bachelor,5,9000,41,27,17,7,25,12,62,2,1.46,FALSE
+185,Finance,Female,33,Technician,03:05.6,9,Bachelor,3,4550,38,30,1,11,75,9,56,2,2.69,FALSE
+186,HR,Female,57,Manager,03:05.6,1,Bachelor,4,8400,35,37,7,10,100,5,59,2,4.38,FALSE
+187,Legal,Male,38,Engineer,03:05.6,5,Master,4,8400,41,28,22,6,100,8,38,0,3.08,FALSE
+188,IT,Female,43,Specialist,03:05.6,2,High School,2,5400,54,14,8,9,25,11,97,2,4.01,FALSE
+189,Customer Support,Female,26,Specialist,03:05.6,1,Bachelor,2,5400,33,47,15,5,50,10,11,0,2.8,TRUE
+190,Operations,Female,41,Consultant,03:05.6,2,Bachelor,1,6050,39,24,24,6,100,12,4,0,3.85,FALSE
+191,HR,Female,37,Analyst,03:05.6,8,Bachelor,4,5600,46,18,0,9,0,10,12,0,2.32,FALSE
+192,Engineering,Female,36,Analyst,03:05.6,3,Bachelor,2,4800,39,49,24,14,25,15,64,1,3.84,TRUE
+193,Finance,Male,54,Specialist,03:05.6,4,Bachelor,1,4950,59,2,22,3,0,4,99,0,3.94,FALSE
+194,IT,Female,45,Analyst,03:05.6,3,Bachelor,2,4800,57,28,26,2,50,15,85,0,1.48,FALSE
+195,IT,Female,56,Specialist,03:05.6,7,Master,5,6750,53,19,22,4,0,2,61,0,2.51,TRUE
+196,Legal,Female,39,Engineer,03:05.6,1,Master,5,9000,59,16,24,2,50,1,26,1,1.59,TRUE
+197,HR,Male,44,Technician,03:05.6,2,High School,1,3850,37,9,8,11,75,5,15,2,1.49,FALSE
+198,HR,Female,55,Analyst,03:05.6,3,Bachelor,5,6000,43,14,22,6,75,17,42,2,3.45,FALSE
+199,IT,Female,52,Developer,03:05.6,5,Bachelor,1,5500,44,40,28,14,50,12,56,0,3.23,FALSE
+200,Operations,Male,27,Consultant,03:05.6,3,Master,1,6050,36,4,26,8,100,9,38,2,3.73,TRUE
+201,Finance,Male,45,Analyst,03:05.6,9,Bachelor,5,6000,30,12,14,9,100,8,26,1,2.41,FALSE
+202,Operations,Female,54,Specialist,03:05.6,5,Bachelor,3,5850,52,28,21,3,0,16,14,2,3.47,FALSE
+203,Engineering,Male,32,Consultant,03:05.6,8,High School,2,6600,47,5,20,10,75,19,87,1,4.06,FALSE
+204,Customer Support,Male,52,Analyst,03:05.6,4,Bachelor,2,4800,34,19,18,6,75,14,37,0,2.63,FALSE
+205,HR,Female,38,Technician,03:05.6,6,High School,1,3850,32,39,2,2,50,14,40,1,1.25,FALSE
+206,Marketing,Male,50,Engineer,03:05.6,1,Bachelor,2,7200,44,10,21,0,0,5,88,2,4.9,TRUE
+207,Customer Support,Male,41,Manager,03:05.6,3,Master,4,8400,55,28,1,14,50,5,66,2,1.02,FALSE
+208,Sales,Female,40,Developer,03:05.6,7,High School,1,5500,30,20,7,10,0,6,64,1,4.61,TRUE
+209,Engineering,Male,43,Developer,03:05.6,8,High School,3,6500,55,49,24,8,50,15,75,2,2.96,FALSE
+210,Legal,Male,42,Consultant,03:05.6,9,Bachelor,2,6600,58,39,13,3,0,14,23,0,4.32,FALSE
+211,Finance,Female,26,Specialist,03:05.6,3,High School,4,6300,41,47,26,2,50,7,98,0,2.86,TRUE
+212,Marketing,Male,36,Manager,03:05.6,4,PhD,2,7200,44,27,9,10,100,13,52,2,2.76,FALSE
+213,Operations,Male,28,Developer,03:05.6,1,Bachelor,4,7000,32,16,10,9,75,6,21,0,4.27,FALSE
+214,Legal,Female,32,Specialist,03:05.6,4,Master,5,6750,49,5,11,6,75,17,99,1,2.42,FALSE
+215,Operations,Female,25,Developer,03:05.6,4,High School,3,6500,34,25,1,5,0,1,69,0,1.75,FALSE
+216,Sales,Female,30,Manager,03:05.6,6,Bachelor,3,7800,40,0,22,7,100,16,74,2,4.21,TRUE
+217,Operations,Female,42,Engineer,03:05.6,4,Master,2,7200,54,12,17,8,75,7,5,0,4.58,FALSE
+218,Legal,Female,22,Analyst,03:05.6,6,High School,4,5600,42,7,11,5,25,2,7,0,4.77,FALSE
+219,Engineering,Male,23,Engineer,03:05.6,4,Bachelor,5,9000,55,12,5,11,0,1,95,1,4.14,FALSE
+220,Customer Support,Male,52,Engineer,03:05.6,8,Bachelor,4,8400,35,0,27,6,50,7,82,1,4.97,FALSE
+221,Operations,Male,25,Consultant,03:05.6,4,High School,2,6600,34,41,7,11,25,12,9,1,3.23,FALSE
+222,Customer Support,Male,50,Developer,03:05.6,8,Bachelor,5,7500,32,7,2,9,100,10,14,1,4.74,FALSE
+223,Legal,Male,32,Analyst,03:05.6,3,Bachelor,1,4400,45,35,25,12,100,12,52,0,4.98,FALSE
+224,Engineering,Female,55,Engineer,03:05.6,2,Bachelor,4,8400,36,22,23,2,50,1,43,1,2.76,FALSE
+225,Sales,Female,53,Specialist,03:05.6,3,Master,1,4950,30,21,20,4,75,2,29,1,1.49,FALSE
+226,Sales,Female,44,Manager,03:05.6,9,PhD,5,9000,53,0,11,7,25,13,65,2,4.9,FALSE
+227,HR,Female,25,Engineer,03:05.6,9,Bachelor,5,9000,45,47,18,7,25,15,69,0,1.66,FALSE
+228,Operations,Female,57,Developer,03:05.6,5,Bachelor,2,6000,40,37,8,5,75,12,53,2,2.83,FALSE
+229,IT,Male,42,Consultant,03:05.6,3,Bachelor,4,7700,47,29,3,9,75,14,7,2,3.62,FALSE
+230,Legal,Female,39,Engineer,03:05.6,2,Bachelor,5,9000,41,8,27,3,75,9,70,2,1.39,FALSE
+231,Operations,Male,25,Manager,03:05.6,9,High School,3,7800,58,9,6,9,0,5,56,1,3.1,FALSE
+232,Customer Support,Female,27,Analyst,03:05.6,2,High School,3,5200,56,34,28,3,25,2,80,1,2.06,FALSE
+233,Sales,Female,32,Technician,03:05.6,9,High School,2,4200,46,28,20,2,75,2,29,1,1.45,FALSE
+234,Finance,Female,57,Analyst,03:05.6,2,Master,4,5600,58,38,10,6,25,14,58,0,4.13,FALSE
+235,Marketing,Male,32,Analyst,03:05.6,8,Master,4,5600,36,12,9,11,75,12,91,2,2.65,FALSE
+236,HR,Female,39,Technician,03:05.6,1,Master,5,5250,57,3,28,5,0,17,29,2,4.33,FALSE
+237,Marketing,Other,44,Technician,03:05.6,7,Bachelor,1,3850,53,30,3,11,25,15,33,2,3.51,FALSE
+238,Sales,Male,28,Engineer,03:05.6,2,High School,4,8400,38,9,23,7,75,12,37,0,1.96,FALSE
+239,Operations,Female,42,Consultant,03:05.6,8,High School,4,7700,53,17,18,1,50,16,55,1,4.65,FALSE
+240,Finance,Female,27,Manager,03:05.6,1,High School,4,8400,56,27,19,4,75,8,90,2,1.53,FALSE
+241,HR,Male,60,Developer,03:05.6,1,High School,3,6500,54,12,9,11,0,11,32,0,2.18,TRUE
+242,Engineering,Male,42,Manager,03:05.6,1,Master,1,6600,41,10,24,4,50,2,8,2,4.72,FALSE
+243,Finance,Male,33,Developer,03:05.6,6,High School,2,6000,39,38,28,9,25,1,33,2,3.42,FALSE
+244,IT,Female,47,Analyst,03:05.6,2,Bachelor,2,4800,38,44,4,3,50,11,31,2,1.04,FALSE
+245,HR,Female,45,Manager,03:05.6,4,Bachelor,5,9000,48,9,7,1,100,3,65,1,4.79,FALSE
+246,IT,Female,32,Specialist,03:05.6,2,Bachelor,4,6300,55,46,26,11,0,9,87,2,4.82,FALSE
+247,Marketing,Female,24,Technician,03:05.6,7,Bachelor,4,4900,30,33,20,3,25,15,18,0,1.46,FALSE
+248,HR,Female,43,Analyst,03:05.6,3,Bachelor,2,4800,57,36,5,4,100,19,37,1,4.81,FALSE
+249,Legal,Male,32,Consultant,03:05.6,2,High School,3,7150,35,43,15,10,25,5,75,0,1.49,FALSE
+250,Customer Support,Male,35,Technician,03:05.6,1,High School,3,4550,51,28,4,9,50,3,84,1,2.03,FALSE

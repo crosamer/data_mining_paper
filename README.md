@@ -1,6 +1,6 @@
 # 📘 Data Mining Paper — Kelompok 11
 Mata Kuliah: **Data Mining**  
-Semester: —  
+Semester: 5  
 
 ## 👥 Anggota Kelompok 11
 - **Lidya Khairunnisa (L0123075)**
@@ -94,13 +94,13 @@ Hasil yang dianalisis:
 
 ## 🛠️ Cara Menjalankan Program
 
-### 1. Install dependency
+### 1. Install dependency dan jalankan script
 ```bash
 pip install pandas numpy matplotlib scikit-learn statsmodels prophet mlxtend
 
-### 2. Jalankan script sesuai topik
 python association/association.py
 python estimation/estimation.py
 python prediction/prediction.py
 python clustering/clustering.py
 python classification/classification.py
+
